@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Soviet!] 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-blue)](https://github.com/YourUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-blue)](https://github.com/Soviet-Senpai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0e76a8)](https://www.linkedin.com/in/YourName/)
 [![Website](https://img.shields.io/badge/Website-REDACTED-brightred)](https://www.yourwebsite.com/)
 
