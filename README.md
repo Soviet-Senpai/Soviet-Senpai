@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-YourUsername-blue)](https://github.com/YourUsername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0e76a8)](https://www.linkedin.com/in/YourName/)
-[![Website](https://img.shields.io/badge/Website-YourWebsite-brightgreen)](https://www.yourwebsite.com/)
+[![Website](https://img.shields.io/badge/Website-REDACTED-brightred)](https://www.yourwebsite.com/)
 
 ### 🔧 Skills
 
@@ -29,6 +29,6 @@
 
 ### 🌐 Connect with Me
 
-- LinkedIn: [YourName](https://www.linkedin.com/in/YourName/)
-- Website: [YourWebsite](https://www.yourwebsite.com/)
-- Email: your.email@example.com
+- LinkedIn: 
+- Website:
+- Email:
