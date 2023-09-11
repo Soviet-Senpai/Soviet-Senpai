@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hello, I'm [Soviet!] 👋
+# Hello, I'm Soviet! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-SovietSenpai-blue)](https://github.com/Soviet-Senpai)
