@@ -26,7 +26,7 @@
 ### 📈 GitHub Stats
 
 ![Soviet-Senpai GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soviet-Senpai&show_icons=true&theme=dark)
-![Soviet-Senpai GitHub Stats](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Soviet-Senpai GitHub Stats](https://raw.githubusercontent.com/Soviet-Senpai/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ### 🌐 Connect with Me
 
 - LinkedIn: 
