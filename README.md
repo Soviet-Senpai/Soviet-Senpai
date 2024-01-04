@@ -27,6 +27,8 @@
 
 ![Soviet-Senpai GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soviet-Senpai&show_icons=true&theme=dark)
 
+![Soviet-Senpai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soviet-Senpai&theme=vue-dark&hide_border=true)
+
 ### 🌐 Connect with Me
 
 - LinkedIn: 
