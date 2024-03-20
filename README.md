@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+My+Name+is+Soviet!;Nice+to+see+you...)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+My+Name+is+Xero+aka+Soviet!;Nice+to+see+you...)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-SovietSenpai-blue)](https://github.com/Soviet-Senpai)
