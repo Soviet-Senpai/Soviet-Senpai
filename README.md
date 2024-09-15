@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-SovietSenpai-blue)](https://github.com/Soviet-Senpai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-REDACTED-0e76a8)](https://www.linkedin.com/in/YourName/)
-[![Website](https://img.shields.io/badge/Website-REDACTED-brightred)](https://www.yourwebsite.com/)
+[![Website]
 
 ### 🔧 Skills
 
