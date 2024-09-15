@@ -8,7 +8,7 @@
 
 ### 🔧 Skills
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-blue?style=for-the-badge&logo=node.js)
