@@ -11,7 +11,7 @@
 ### ⚙️ Focus Areas
 
 #### 🎮 Game Hacking & Reverse Engineering
-- Low-level systems programming in C++ and x86/x64 Assembly  
+- Low-level systems programming in C++ and x86/x64 Assembly 
 - Internal/External cheat development (ESP, aimbots, radar, etc.)  
 - Memory manipulation: RPM/WPM, pointer resolution, multi-level dereferencing  
 - Code cave creation, trampoline and inline hooking, midfunction hooks  
@@ -19,8 +19,8 @@
 - Game engine exploitation (Unreal Engine, Source, Unity)
 
 #### 🧠 Reverse Engineering & Debugging
-- Proficiency with IDA Pro, Ghidra, x64dbg, Cheat Engine  
-- Reverse engineering proprietary binaries, obfuscated code, and anti-debug logic  
+- Proficiency with IDA Pro, Ghidra, x64dbg, Cheat Engine, ArtMoney, etc...
+- Reverse engineering proprietary binaries, obfuscated code, and anti-debug logic, and more
 - Analyzing runtime behavior via breakpoint tracing, memory analysis, stack inspection  
 - Developing tooling for static/dynamic analysis and anti-cheat bypasses  
 
