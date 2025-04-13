@@ -1,6 +1,6 @@
 ### 👋 Hey there
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hi%2C+I'm+Xero+%7C+Reverse+Engineer+%26+Game+Security+Researcher;Specializing+in+C%2B%2B+Game+Hacking+%26+Anti-Cheat+Evasion)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hi%2C+I'm+Xero+%7C+Reverse+Engineer)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Soviet-Senpai)
 [![GitHub](https://img.shields.io/badge/GitHub-SovietSenpai-181717?style=flat&logo=github)](https://github.com/Soviet-Senpai)
